@@ -1,10 +1,20 @@
-Variables to Measure:
+Problem 5:
+I wonder if we can create sensors on every bed sheet that perform a wide variety of monitoring that is now done manually. Examples could be temperature, weight, respiratory weight, variability of motion, detection of seizures, body impedance as a measure of fluid retention and so forth.
+
+Variables to measure and the current solutions:
 Temperature: oral and IR
 Weight: BMI and scale
 Respiratory rate: count
-Variability of motion: accerometors
-Detection of seizures: accerometors/camera
+Variability of motion: sight
+Detection of seizures: sight
 Body impedance as a measure of fluid retention: scale
 Oxygen: IR
 Heart rate: IR
 Blood pressure: air pump and cuff
+
+Potential costs:
+software and hardware
+sensors
+fabric
+monitor
+
